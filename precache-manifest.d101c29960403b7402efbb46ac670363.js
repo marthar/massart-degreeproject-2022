@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "000d88f2b2606f47f14fd1c6eda51913",
+    "revision": "49f5775b7a8206fcc4eec1d8b1023c48",
     "url": "/massart-degreeproject-2022/index.html"
   },
   {
-    "revision": "6582440f08ef49aaba98",
+    "revision": "a0a27f3a6a31c4056737",
     "url": "/massart-degreeproject-2022/static/css/main.07265319.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/massart-degreeproject-2022/static/js/2.5afee1a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6582440f08ef49aaba98",
-    "url": "/massart-degreeproject-2022/static/js/main.4f6fa8f8.chunk.js"
+    "revision": "a0a27f3a6a31c4056737",
+    "url": "/massart-degreeproject-2022/static/js/main.c7decf4b.chunk.js"
   },
   {
     "revision": "ba70fcc479d23e125d78",
